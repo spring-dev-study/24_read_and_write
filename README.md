@@ -28,6 +28,6 @@
 
 | NO | 주제 | 발표자 & 발표자료 |
 |:--:|:--:|:----------:|
-| 1  |    |
+| 1  | [Electron](https://jjywalrus.github.io/post%20formats/post-electron/) | 전재윤 |
 
 
