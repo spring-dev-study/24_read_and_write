@@ -26,8 +26,9 @@
 
 - 일자: 2024.04.24
 
-| NO | 주제 | 발표자 & 발표자료 |
+| NO | 발표자 | 발표자료 | 
 |:--:|:--:|:----------:|
-| 1  | [Electron](https://jjywalrus.github.io/post%20formats/post-electron/) | 전재윤 |
+| 1  | 전재윤 | [Electron](https://jjywalrus.github.io/post%20formats/post-electron/) | 
+|2| 강민주 | [DispatcherServlet 동작 이해하기](https://nettle-yellowhorn-6b9.notion.site/Dispatcher-Servlet-d83b96731fef497fb2f3118968509390?pvs=4) |
 
 
