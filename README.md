@@ -18,7 +18,7 @@
 
 |                  강민주                   |                 양찬혁                  | 임혜민  |                전재윤                | 박지연  |                박지찬                 |
 |:--------------------------------------:|:------------------------------------:|:----:|:---------------------------------:|:----:|:----------------------------------:|
-| [@kkangmj](https://github.com/kkangmj) | [@yangchanhk98](https://github.com/yangchanhk98) | []() | [@jjywalrus](https://github.com/jjywalrus) | [@coucouluv](https://github.com/coucouluv)  | [@chan-park](https://github.com/chan-park) |
+| [@kkangmj](https://github.com/kkangmj) | [@yangchanhk98](https://github.com/yangchanhk98) | [@hyemin-lim](https://github.com/hyemin-lim) | [@jjywalrus](https://github.com/jjywalrus) | [@coucouluv](https://github.com/coucouluv)  | [@chan-park](https://github.com/chan-park) |
 
 ## 📌 발표 주제
 
