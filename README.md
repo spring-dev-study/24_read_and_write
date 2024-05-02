@@ -32,3 +32,11 @@
 |2| 강민주 | [DispatcherServlet 동작 이해하기](https://nettle-yellowhorn-6b9.notion.site/Dispatcher-Servlet-d83b96731fef497fb2f3118968509390?pvs=4) |
 |3| 양찬혁 | https://github.com/spring-dev-study/24_read_and_write/blob/main/2024-04-24_Chanhyuk.md |
 
+### 2주차
+
+- 일자: 2024.05.02
+
+| NO | 발표자 | 발표자료 | 
+|:--:|:--:|:----------:|
+| 1  | 박지찬 | [Matrix Multiplication 에서의 Cache Locality ](https://www.notion.so/Matrix-Multiplication-Cache-Locality-Pt-1-d6b940ca1bb6432ebefbc9574eb72e5b?pvs=4) | 
+
