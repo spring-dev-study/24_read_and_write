@@ -41,3 +41,11 @@
 | 1  | 박지찬 | [Matrix Multiplication 에서의 Cache Locality ](https://elastic-wrinkle-5a1.notion.site/Matrix-Multiplication-Cache-Locality-Pt-1-d6b940ca1bb6432ebefbc9574eb72e5b?pvs=4) | 
 | 3  | 박지연 |[@Transactional](https://tarry-radar-21d.notion.site/Transactional-0c12c98b61b24af086ebb491d9ebffe8?pvs=4) | 
 
+### 3주차
+
+- 일자: 2024.05.22
+
+| NO | 발표자 | 발표자료 | 
+|:--:|:--:|:----------:|
+| 1  | 강민주 | [가상면접사례로 배우는 대규모 시스템 설계 기초 - 유튜브 설계](https://nettle-yellowhorn-6b9.notion.site/8ea952db382d4edfb932608135a28a6b?pvs=4) |
+
