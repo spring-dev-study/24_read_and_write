@@ -48,4 +48,5 @@
 | NO | 발표자 | 발표자료 | 
 |:--:|:--:|:----------:|
 | 1  | 강민주 | [가상면접사례로 배우는 대규모 시스템 설계 기초 - 유튜브 설계](https://nettle-yellowhorn-6b9.notion.site/8ea952db382d4edfb932608135a28a6b?pvs=4) |
+| 2  | 전재윤 | [Meltdown](https://jjywalrus.notion.site/Meltdown-3e0d137012e3483c854d3a54129f01bb?pvs=4) |
 
